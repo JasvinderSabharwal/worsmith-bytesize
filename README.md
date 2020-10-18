@@ -1,4 +1,4 @@
-# worsmith-bytesize
+# wordsmith-bytesize
 
 - Worsmith - Enter a word and Get the ryming words
 - Using Datamuse API for GET requests
